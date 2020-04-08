@@ -1,1 +1,1 @@
-# Synth
+# Synthetic avatar repo
